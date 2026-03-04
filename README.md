@@ -2,6 +2,12 @@
 
 **RUN aqi_calculator.py**
 
+## Members
+
+Nihal Kopparthi (SE24UCSE014)
+Surampally Aryan (SE24UCSE239)
+Kushal Pandey (SE24UCSE068)
+
 ## Overview
 
 This project calculates the **Air Quality Index (AQI)** from pollutant concentration values such as **PM2.5, PM10, SO₂, NO₂, CO, O₃, and NH₃**.
